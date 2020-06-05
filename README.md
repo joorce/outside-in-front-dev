@@ -1,9 +1,16 @@
 # opinion-ate
 
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://outside-in-front-dev.netlify.app/>
+
 ## Project setup
 ```
 yarn install
 ```
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not
+`npm` for installing them.
 
 ### Compiles and hot-reloads for development
 ```
